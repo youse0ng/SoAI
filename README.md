@@ -99,10 +99,11 @@
 
 ## 📈 시각 자료
 - Segmentation 예시
-<img width="1196" height="862" alt="image" src="https://github.com/user-attachments/assets/614f2162-8a35-4373-bd48-793b345c5f6c" />
+<img width="1773" height="773" alt="image" src="https://github.com/user-attachments/assets/61a0bbb7-7ba8-4681-9bd5-1064c1d3204e" />
 
 - Captioning 예측 결과 샘플
-<img width="1156" height="382" alt="image" src="https://github.com/user-attachments/assets/e47a74f1-1ebb-4844-a673-9bf86161c613" />
+<img width="1777" height="486" alt="image" src="https://github.com/user-attachments/assets/e11dd23c-5d34-4185-9650-27312abea501" />
+
 
 
 ---
