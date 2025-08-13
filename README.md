@@ -1,5 +1,6 @@
 # 🩻 X-ray 기반 소아 Segmentation & Image + Meta Captioning 모델
-<img width="1113" height="611" alt="image" src="https://github.com/user-attachments/assets/0367b0d2-2fc7-4160-b57d-1646e7aa2e21" />
+<img width="844" height="461" alt="image" src="https://github.com/user-attachments/assets/b14011d0-bd0e-4a96-9bd4-795fbf39f550" />
+
 ---
 
 ## 📋 프로젝트 개요
