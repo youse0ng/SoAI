@@ -66,7 +66,6 @@
 - BERT tokenizer로 메타데이터 임베딩
 - Cross-Attention으로 통합 Feature 생성
 - 학습 전/후 통합 Feature 벡터 시각화 (Y-Target Levels 별로 통합 Feature 벡터가 잘 분류되었는지 파악하기 위함)
-
 <img width="1130" height="642" alt="image" src="https://github.com/user-attachments/assets/a3c4944a-fc49-430a-bcca-6d2af607aa9a" />
 
 
@@ -74,8 +73,7 @@
 - Transformer 기반 Decoder 설계
 - 학습: Teacher Forcing + Cross Entropy Loss
 - Inference: Greedy Search 채택
-<img width="1032" height="625" alt="image" src="https://github.com/user-attachments/assets/5855fe7a-68a4-4c81-92e1-cf58dc3cf371" />
-<img width="807" height="453" alt="image" src="https://github.com/user-attachments/assets/7182e4f5-1d0a-49d5-bcb9-6536ea3a4406" />
+<img width="958" height="561" alt="image" src="https://github.com/user-attachments/assets/410d077f-3544-4b2a-8608-9d8de5aed7f8" />
 
 ---
 
