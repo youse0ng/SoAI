@@ -66,7 +66,7 @@
 - BERT tokenizer로 메타데이터 임베딩
 - Cross-Attention으로 통합 Feature 생성
 - 학습 전/후 통합 Feature 벡터 시각화 (Y-Target Levels 별로 통합 Feature 벡터가 잘 분류되었는지 파악하기 위함)
-<img width="1130" height="642" alt="image" src="https://github.com/user-attachments/assets/a3c4944a-fc49-430a-bcca-6d2af607aa9a" />
+![소아X-RayAIv2](https://github.com/user-attachments/assets/efd570cb-bec6-4037-a89e-96b14d4b3076)
 
 
 4️⃣ **Captioning 디코더**
