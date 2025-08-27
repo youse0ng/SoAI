@@ -67,6 +67,7 @@
 - Cross-Attention으로 통합 Feature 생성
 - 학습 전/후 통합 Feature 벡터 시각화 (Y-Target Levels 별로 통합 Feature 벡터가 잘 분류되었는지 파악하기 위함)
 ![소아X-RayAIv2](https://github.com/user-attachments/assets/efd570cb-bec6-4037-a89e-96b14d4b3076)
+<img width="720" height="442" alt="image" src="https://github.com/user-attachments/assets/907bf20d-2360-4450-b72c-bee37fcbb407" />
 
 
 4️⃣ **Captioning 디코더**
